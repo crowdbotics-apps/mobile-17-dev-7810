@@ -131,7 +131,7 @@ export class _Blank extends React.Component {
         Press me!
       </Button>
       <Image
-        resizeMode="stretch"
+        resizeMode="cover"
         source={{
           uri:
             "https://d3nfddh2sbo9hk.cloudfront.net/media/project_component_resources/6_noySiuj.jpg"
